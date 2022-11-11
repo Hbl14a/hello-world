@@ -1,2 +1,11 @@
 # hello-world
 training to be a GitHub expert
+```
+### About Me {#custom-id}
+{
+  "firstName": "hunter",
+  "lastName": "lees",
+  "age": 27
+}
+```
+Well, I was born in Morristown, NJ on July 10, 1995. My first memory is building a snowman and using Hershy's Kisses for the nose and mouth. Most of my memories from a young age really are from my time in Boerne, TX. I appreciated growing up in a samll town, but I don't believe it's the way I would like to raise a family. I feel like diversity of thought is hindered and you get sucked into a feedback loop. I could talk about that all day, but, moving on with more of my life. My brother introduced me to some of my greatest joys as a child. He's 6 years older, which meant I wanted to do everything he did. He drew a lot, so I learend from him how to draw. He played guitar, so he tought me how to play my first drum beat. I grew to really loves these activities, engaging the right side of my brain majority of much younger years. Alos, being homeschooled allowed me to maximize my days and get work done quicker so I could focus on these activities more than others. As I grew older and entered highschool, I decided to go to public school to pursue more team sport activities. Football became my focus and was good enough to play college football at a D1 school. However, I had to walk on, which meant the road to playing on the feild was going to be harder. I could have gone to a D3 or D2 school, but  I wanted to test my skills against better athletes at the D1 level. I learned a great deal about myslef in this time. The main thing was not to hold things so tightly, becuase what I learned was when I went into practice or a game trying to not make a mistake rather than making a play, I made more mistakes. Definition of a self fulfilling prophecy. After studying Advertising / PR at Abilene Christian Univeristy, I joined a 3PL e-commerce fulfillment company and really began to engage the left side of my brain more on a daily basis as a business / project manager. I feel like my greatest strengths lie in my ability to adapt to various situations / poeple while pursung new challenges in roles I have held. I love that I get to engage both sides of my brain to this day through playing drums and helping build a company at Convictional.
